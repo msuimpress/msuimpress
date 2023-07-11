@@ -1,4 +1,6 @@
-Official account for IMPRESS Lab at Mississippi State University.
+Official GitHub repository for IMPRESS Lab at Mississippi State University.
+
+For the older repository; https://github.com/impresslab
 
 <!---
 msuimpress/msuimpress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
